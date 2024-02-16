@@ -1,5 +1,3 @@
-
-![Uploading image.png…]()
 欢迎谁用AFOSNE聊天机器人
 直接发送消息即可联系afosne
 更多机器人
