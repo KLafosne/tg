@@ -1,4 +1,5 @@
-使用方法：
-当其他用户给bot发消息，会被转发到bot创建者
-用户回复普通文字给转发的消息时，会回复到原消息发送者
-用户回复 /block , /unblock , /checkblock 等命令会执行相关指令， 不会回复到原消息发送者
+欢迎谁用AFOSNE聊天机器人
+直接发送消息即可联系afosne
+更多机器人
+[]: https://t.me/afosnenodes_bot	"AFOSNE免费机场订阅"
+<a href='https://t.me/afosnenodes_bot' target='_blank' class='url'>https://t.me/afosnenodes_bot</a> AFOSNE免费机场订阅
